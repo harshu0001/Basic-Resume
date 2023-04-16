@@ -1,0 +1,19 @@
+/*img:hover{  :hover is a seudo class
+  background-color: grey;
+}
+*/
+body{
+    background-color: #eaf6f6;
+  }
+  hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 6px;
+    width: 5%
+  }
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF
+}
